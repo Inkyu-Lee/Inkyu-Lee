@@ -1,17 +1,22 @@
-# 👋 Hi there, I'm Inkyu Lee (@Inkyu-Lee)
+# 👋 안녕하세요, 이인규(@Inkyu-Lee)입니다!
 
-I am a passionate developer with a strong interest in **coding**. I'm constantly exploring and learning new technologies to improve my skills and build innovative projects.
+저는 코딩에 열정이 가득한 주니어 개발자입니다.<br>
+항상 새로운 기술을 배우고 익히며, 자기 성장에 노력하는 사람입니다.<br>
+현재는 Flutter&Kotlin과 같은 언어로 앱개발에 관심이 많으며 이 부분을 공부하고 있습니다!
 
-## 🚀 Currently Learning
+## 🚀 현재 배우고 있는 기술
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+- 크로스 플랫폼 모바일 앱 개발을 목적으로 배우고 있습니다.
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
+- 안드로이드 앱 개발과 코프링(Kotlin + Spring)의 관심이 있습니다.
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat-square)
+- Next.JS 하나의 언어로 풀스택 개발에 관심이 있습니다.
 
-## 🛠️ Skills
+## 🛠️ 사용 가능한 기술 스택
 
 ### Backend
 - ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
+- 현재 제가 사용하고 있는 주력 프레임워크 입니다.
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
@@ -36,4 +41,6 @@ I am a passionate developer with a strong interest in **coding**. I'm constantly
 
 ---
 
-🌟 Let's build something amazing together! Feel free to connect with me.
+🌟 아래는 제 포트폴리오 입니다! <br>
+🌟<a href="https://inkyu-lee.github.io/portfolio/"> [PortFolio] </a>
+
