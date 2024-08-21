@@ -4,10 +4,6 @@
 항상 새로운 기술을 배우고 익히며, 자기 성장에 노력하는 사람입니다.<br>
 현재는 Flutter&Kotlin과 같은 언어로 앱개발에 관심이 많으며 이 부분을 공부하고 있습니다!
 
-## 📊 GitHub Stats
-
-![Inkyu-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inkyu-Lee&show_icons=true&theme=radical)
-
 ## 🔝 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkyu-Lee&layout=compact&theme=radical)
