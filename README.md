@@ -44,8 +44,5 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
----
-
-🌟 아래는 제 포트폴리오 입니다! <br>
-🌟<a href="https://inkyu-lee.github.io/portfolio/"> [PortFolio] </a>
+--
 
