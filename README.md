@@ -45,5 +45,3 @@
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 --
-
-https://us06web.zoom.us/j/87186295997?pwd=9b8tH5ghqxKMyyHL3AZ5sFtrRc2hBU.1
