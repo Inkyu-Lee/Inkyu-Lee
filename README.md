@@ -23,8 +23,6 @@
 - ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
 - 현재 제가 사용하고 있는 주력 프레임워크 입니다.
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 - ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat-square)
 
 ### Frontend
