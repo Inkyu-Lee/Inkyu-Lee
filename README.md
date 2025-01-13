@@ -39,7 +39,6 @@
 #### 🚀 버전 관리 & 문서화
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-</div>
 
 ## 🔝 Top Languages
 
@@ -48,3 +47,4 @@
 ### 📫 연락처
 
 [이메일](mailto:dinodove@naver.com) | [개인 포트폴리오](https://inkyu-lee.github.io/portfolio)
+</div>
