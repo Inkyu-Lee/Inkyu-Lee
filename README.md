@@ -1,3 +1,4 @@
+<div align="center">
 # 안녕하세요! 저는 풀스택 개발자 이인규(@Inkyu-Lee)입니다! 👋
 
 ### 저는 코딩에 열정이 가득한 주니어 개발자입니다.<br> 항상 새로운 기술을 배우고 익히며, 자기 성장에 노력하는 사람입니다.<br> 현재는 Flutter&Kotlin과 같은 언어로 앱개발에 관심이 많으며 이 부분을 공부하고 있습니다!
@@ -38,6 +39,7 @@
 #### 🚀 버전 관리 & 문서화
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+</div>
 
 ## 🔝 Top Languages
 
